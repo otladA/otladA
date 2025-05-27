@@ -41,8 +41,8 @@ Always seeking to apply and expand knowledge in Java and other technologies, wit
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -57,8 +57,8 @@ Always seeking to apply and expand knowledge in Java and other technologies, wit
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
