@@ -1,35 +1,35 @@
 # 🦧 Adalto Jr.
 
-**`Estudante - 18 anos`**
+**`Student - 18 y/o`**
 
-Sempre buscando aplicar e expandir conhecimentos em Java e outras tecnologias, com foco em back-end.
+Always seeking to apply and expand knowledge in Java and other technologies, with a focus on back-end development.
 
 <p align="left">
     <a href="https://www.youtube.com/@otlware?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Subscribe to my channel" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@otlware">
         <img 
             alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            title="Views on Youtube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/otladA?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total stars on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/otladA?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/otladA?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/otladA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -37,7 +37,7 @@ Sempre buscando aplicar e expandir conhecimentos em Java e outras tecnologias, c
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Languages and Technologies
 
 <img 
     align="left" 
@@ -67,7 +67,7 @@ Sempre buscando aplicar e expandir conhecimentos em Java e outras tecnologias, c
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
