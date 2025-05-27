@@ -1,8 +1,7 @@
 # 🦧 Adalto Jr.
 
 **`Estudante`**
-
-Meu nome é Adalto, tenho 18 anos e sou estudante do IFF campus Santo Antônio de Pádua. Atualmente, estou estudando tudo relacionado a tecnologia——tendo um foco maior em Java.
+Estudante de Automação Industrial, buscando estágio na área de TI com foco em desenvolvimento back-end, onde possa aplicar e ampliar conhecimentos em Java e outras tecnologias.
 
 <p align="left">
     <a href="https://www.youtube.com/@otlware?sub_confirmation=1">
@@ -37,7 +36,7 @@ Meu nome é Adalto, tenho 18 anos e sou estudante do IFF campus Santo Antônio d
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -61,7 +60,7 @@ Meu nome é Adalto, tenho 18 anos e sou estudante do IFF campus Santo Antônio d
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" 
 />
 
 <br/>
@@ -77,12 +76,4 @@ Meu nome é Adalto, tenho 18 anos e sou estudante do IFF campus Santo Antônio d
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=otladA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=otladA&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
