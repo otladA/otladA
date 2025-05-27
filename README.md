@@ -1,7 +1,7 @@
 # 🦧 Adalto Jr.
 
-**`Estudante`**
-Estudante de Automação Industrial, buscando estágio na área de TI com foco em desenvolvimento back-end, onde possa aplicar e ampliar conhecimentos em Java e outras tecnologias.
+**`Estudante - 18 anos`**
+Sempre buscando aplicar e expandir conhecimentos em Java e outras tecnologias, com foco em back-end.
 
 <p align="left">
     <a href="https://www.youtube.com/@otlware?sub_confirmation=1">
