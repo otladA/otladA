@@ -1,35 +1,35 @@
 # 🦧 Adalto Jr.
 
-**`Student - 18 y/o`**
+**`Estudante - 18 anos`**
 
-Always seeking to apply and expand knowledge in Java and other technologies, with a focus on back-end development.
+Estou sempre interessado em aplicar e expandir os meus conhecimentos em Java e algumas outras tecnologias, com um maior foco em back-end.
 
 <p align="left">
     <a href="https://www.youtube.com/@otlware?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
-            title="Subscribe to my channel" 
+            title="Inscreva-se no canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@otlware">
         <img 
             alt="youtube views" 
-            title="Views on Youtube" 
+            title="Views no Youtube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/otladA?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total stars on GitHub" 
+            title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/otladA?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/otladA?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Follow me on GitHub" 
+            title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/otladA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -37,7 +37,7 @@ Always seeking to apply and expand knowledge in Java and other technologies, wit
 
 ---
 
-### 💻 Languages and Technologies
+### 💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -67,7 +67,7 @@ Always seeking to apply and expand knowledge in Java and other technologies, wit
 <br/>
 <br/>
 
-### 📊 Statistics
+### 📊 Estatísticas
 
 <p>
   <img 
