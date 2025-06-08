@@ -18,13 +18,6 @@ Estou sempre interessado em aplicar e expandir os meus conhecimentos em Java e a
             title="Views no Youtube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
-    <a href="https://github.com/otladA?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/otladA?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://github.com/otladA?tab=followers">
         <img 
