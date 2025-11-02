@@ -1,6 +1,6 @@
 # 🦧 Adalto Jr.
 
-**`Estudante - 18 anos`**
+**`Estudante - 19 anos`**
 
 Estou sempre interessado em aplicar e expandir os meus conhecimentos em Java e algumas outras tecnologias, com um maior foco em back-end.
 
