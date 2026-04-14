@@ -1,14 +1,14 @@
 # 🦧 Adalto Jr.
 
-**`Estudante - 19 anos`**
+**`Técnico em Automação Industrial - 20 anos`**
 
 Estou sempre interessado em aplicar e expandir os meus conhecimentos em Java e algumas outras tecnologias, com um maior foco em back-end.
 
 <p align="left">
-    <a href="https://www.youtube.com/@otlware?sub_confirmation=1">
+    <a href="https://www.youtube.com/@adaltosrc">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no canal." 
+            title="Inscreva-se no canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
