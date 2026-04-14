@@ -1,73 +1,33 @@
-# 🦧 Adalto Jr.
+<br clear="both">
 
-**`Técnico em Automação Industrial - 20 anos`**
+<p align="left">I am a back-end focused developer with a technical background in industrial automation, always looking to apply and expand my knowledge in Java and other technologies.<br><br> Since I started programming in Java in 2022, I have been working on projects that mix problem-solving with a care for accessibility. One of them is IFFetcher, a tool built to make the Q-Acadêmico platform from IFF more accessible to students.<br><br>Some of those projects can be found here :)</p>
 
-Estou sempre interessado em aplicar e expandir os meus conhecimentos em Java e algumas outras tecnologias, com um maior foco em back-end.
+###
 
-<p align="left">
-    <a href="https://www.youtube.com/@adaltosrc">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@otlware">
-        <img 
-            alt="youtube views" 
-            title="Views no Youtube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCEvCt4R10ie_ObvNRvIwKvQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>
-    <a href="https://github.com/otladA?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/otladA?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div align="center">
+  <img height="196" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQzdXRoam56MXNlNnRrbTY5a2JiY2hic3BkazdtNWRsZzd1bjM1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMd7tEvqXWw7yrosIx/giphy.gif"  />
+</div>
 
----
+###
 
-### 💻 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+###
 
-<br/>
-<br/>
+<img src="https://raw.githubusercontent.com/otladA/otladA/output/snake.svg" alt="Snake animation" />
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=otladA&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=otladA.otladA&"  />
+</div>
+
+###
