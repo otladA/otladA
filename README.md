@@ -1,12 +1,20 @@
+<h3 align="left">Hello there 👋 my name is Adalto.</h3>
+
+###
+
 <br clear="both">
 
-<p align="left">I am a back-end focused developer with a technical background in industrial automation, always looking to apply and expand my knowledge in Java and other technologies.<br><br> Since I started programming in Java in 2022, I have been working on projects that mix problem-solving with a care for accessibility. One of them is IFFetcher, a tool built to make the Q-Acadêmico platform from IFF more accessible to students.<br><br>Some of those projects can be found here :)</p>
+<p align="left">I am a back-end focused developer with a technical background in industrial automation, always looking to apply and expand my knowledge in Java and other technologies.<br><br> Since I started programming in Java in 2022, I have been working on projects that mix problem-solving with a care for accessibility. One of them is IFFetcher, a tool built to make the Q-Acadêmico platform from IFF more accessible to students.</p>
 
 ###
 
 <div align="center">
   <img height="196" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWQzdXRoam56MXNlNnRrbTY5a2JiY2hic3BkazdtNWRsZzd1bjM1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NMd7tEvqXWw7yrosIx/giphy.gif"  />
 </div>
+
+###
+
+<p align="center">Some of those projects can be found here :)</p>
 
 ###
 
