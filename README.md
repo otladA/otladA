@@ -4,7 +4,9 @@
 
 <br clear="both">
 
-<p align="left">I am a back-end focused developer with a technical background in industrial automation, always looking to apply and expand my knowledge in Java and other technologies.<br><br> Since I started programming in Java in 2022, I have been working on projects that mix problem-solving and automation with a care for accessibility. One of them is IFFetcher, a tool built to make the Q-Acadêmico platform from IFF more accessible to students.</p>
+<p align="left">I think computers are neat. 
+  
+  I'm a developer focused on c/c++ with a background in industrial automation, and I like making software that's simple, accessible, and actually solves problems. Which is more than I can say for my code sometimes...</p>
 
 ###
 
